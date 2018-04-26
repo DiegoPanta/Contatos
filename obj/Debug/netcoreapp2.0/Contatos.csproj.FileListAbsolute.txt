@@ -1,0 +1,10 @@
+C:\Users\Panta\Documents\Projetos\Contatos\bin\Debug\netcoreapp2.0\Contatos.deps.json
+C:\Users\Panta\Documents\Projetos\Contatos\bin\Debug\netcoreapp2.0\Contatos.runtimeconfig.json
+C:\Users\Panta\Documents\Projetos\Contatos\bin\Debug\netcoreapp2.0\Contatos.runtimeconfig.dev.json
+C:\Users\Panta\Documents\Projetos\Contatos\bin\Debug\netcoreapp2.0\Contatos.dll
+C:\Users\Panta\Documents\Projetos\Contatos\bin\Debug\netcoreapp2.0\Contatos.pdb
+C:\Users\Panta\Documents\Projetos\Contatos\obj\Debug\netcoreapp2.0\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Panta\Documents\Projetos\Contatos\obj\Debug\netcoreapp2.0\Contatos.AssemblyInfoInputs.cache
+C:\Users\Panta\Documents\Projetos\Contatos\obj\Debug\netcoreapp2.0\Contatos.AssemblyInfo.cs
+C:\Users\Panta\Documents\Projetos\Contatos\obj\Debug\netcoreapp2.0\Contatos.dll
+C:\Users\Panta\Documents\Projetos\Contatos\obj\Debug\netcoreapp2.0\Contatos.pdb
